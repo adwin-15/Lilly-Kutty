@@ -1,7 +1,3 @@
-
-<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
-<p align="center">
-
 ## 📢Introduce myself
 
 - 😇 I'm Edwin Shaju
@@ -49,7 +45,7 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://www.instagram.com/adwin_15?r=nametag">adwin15</a> to make it public
+Project created by <a href="https://www.instagram.com/adwin_15">adwin15</a> to make it public
     <br>
        | Â© |
         Reserved |
