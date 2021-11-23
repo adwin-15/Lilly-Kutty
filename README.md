@@ -25,10 +25,8 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 - ✅ Eva Artifical Intelligence Bug Fixed...
 
 ```
-   Last Update : 6/Sep/2021 - 05:45pm
-```
 
-## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
+## 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
 
 - ⬆️ Instagram Downloader
 - ⬆️ Facebook Downloader(𝐍𝐞𝐰)
